@@ -1,0 +1,12 @@
+{
+  "name": "struct",
+  "version": "0.0.0",
+  "description": "A tiny Struct",
+  "main": "index.js",
+  "scripts": {
+    "test": "make && node ./test/lib/index.js"
+  },
+  "author": "Curtis Steckel",
+  "license": "MIT",
+  "private": true
+}
